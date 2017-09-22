@@ -1,2 +1,2 @@
 include ':loading-dots'
-//include ':example'
+include ':example'
